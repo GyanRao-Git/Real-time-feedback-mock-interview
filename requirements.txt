@@ -1,0 +1,6 @@
+librosa
+mediapipe
+pandas
+deepface
+opencv-python
+numpy
